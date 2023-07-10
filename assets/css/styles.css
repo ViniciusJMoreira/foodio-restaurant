@@ -1115,6 +1115,12 @@ img {
     --bigger-font-size: 2rem;
     --h1-font-size: 1.75rem;
   }
+
+  .container {
+    width: 100%;
+    padding-inline: 1.25rem;
+  }
+
   .nav {
     height: calc(var(--header-height) + .5rem);
   }
